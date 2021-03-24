@@ -14,8 +14,8 @@ struct ContentView: View {
                     .font(.headline)
                     .fontWeight(.light)
                 Divider()
-                Card(image: "phone.fill", message: "+7(996)320-90-75")
-                Card(image: "envelope.fill", message: "adreyka626@mail.ru")
+                Card(image: "phone.fill", message: "Number")
+                Card(image: "envelope.fill", message: "Mail")
             }.foregroundColor(.white)
         }
     }
